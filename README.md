@@ -50,7 +50,7 @@ BİLETALL, C# Windows Forms kullanılarak geliştirilmiş kapsamlı bir otobüs 
 
 1. **Projeyi İndirin**
    ```bash
-   git clone https://github.com/kullaniciadi/BİLETALL.git
+   git clone https://github.com/byrkemal/OtobusBiletSatis-Otomasyonu.git
    cd BİLETALL
    ```
 
@@ -77,7 +77,6 @@ BİLETALL, C# Windows Forms kullanılarak geliştirilmiş kapsamlı bir otobüs 
 1. **Admin Paneli**: Admin hesabı ile giriş yapın
 2. **Müşteri Yönetimi**: Müşteri bilgilerini düzenleyin
 3. **Sefer Yönetimi**: Yeni seferler ekleyin
-4. **Raporlar**: Satış istatistiklerini görüntüleyin
 
 ## 🗄️ Veritabanı Yapısı
 
@@ -138,9 +137,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **E-posta**: [e-posta adresiniz]
-- **GitHub**: [GitHub profiliniz]
+- **Geliştirici**: Kemal Bayır
+- **E-posta**: bayirkemal61@gmail.com
+- **GitHub**: (https://github.com/byrkemal)
 
 ## 🙏 Teşekkürler
 
