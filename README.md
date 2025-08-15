@@ -121,7 +121,12 @@ BİLETALL/
 
 ## 📸 Ekran Görüntüleri
 
-Proje içerisinde `Resources/` klasöründe uygulama ekran görüntüleri bulunmaktadır.
+![WhatsApp Image 2025-08-15 at 10 03 15](https://github.com/user-attachments/assets/b6c9c893-59d2-491e-be69-f198fa518a4c)
+![WhatsApp Image 2025-08-15 at 10 05 22](https://github.com/user-attachments/assets/7cebf2f7-c597-48cb-9e67-da7a127173de)
+![WhatsApp Image 2025-08-15 at 10 05 37](https://github.com/user-attachments/assets/517baa1d-d883-467e-8273-8f8f00f7d3b6)
+![WhatsApp Image 2025-08-15 at 10 05 02](https://github.com/user-attachments/assets/ad2d0462-4267-477c-9599-cace568cc4f8)
+![WhatsApp Image 2025-08-15 at 10 04 34](https://github.com/user-attachments/assets/2038fd84-9020-4bc0-9c17-689fab8de7f2)
+
 
 ## 🤝 Katkıda Bulunma
 
