@@ -139,7 +139,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 - **Geliştirici**: Kemal Bayır
 - **E-posta**: bayirkemal61@gmail.com
-- **GitHub**: (https://github.com/byrkemal)
+- **GitHub**: https://github.com/byrkemal
 
 ## 🙏 Teşekkürler
 
