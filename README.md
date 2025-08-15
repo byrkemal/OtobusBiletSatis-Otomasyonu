@@ -11,7 +11,7 @@ BİLETALL, C# Windows Forms kullanılarak geliştirilmiş kapsamlı bir otobüs 
 - [Veritabanı Yapısı](#veritabanı-yapısı)
 - [Proje Yapısı](#proje-yapısı)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Katkıda Bulunma](#katkıda-bulunma)
+- [İletişim](#-iletişim)
 
 ## ✨ Özellikler
 
@@ -127,23 +127,14 @@ BİLETALL/
    <img src="https://github.com/user-attachments/assets/2038fd84-9020-4bc0-9c17-689fab8de7f2" alt="Ekran 5" width="300"/>
 </div>
 
-## 🤝 Katkıda Bulunma
 
-1. Bu repository'yi fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
-5. Pull Request oluşturun
-
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
+---
 ## 📞 İletişim
 
-- **Geliştirici**: Kemal Bayır
-- **E-posta**: bayirkemal61@gmail.com
-- **GitHub**: https://github.com/byrkemal
+**Geliştirici:** Kemal Bayır  
+**E-posta:** bayirkemal61@gmail.com  
+**GitHub:** https://github.com/byrkemal
+
 
 ## 🙏 Teşekkürler
 
@@ -151,4 +142,6 @@ Bu projeyi geliştirirken kullanılan tüm açık kaynak kütüphanelere ve topl
 
 ---
 
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+<div align="center">
+  <p>⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!</p>
+</div>
